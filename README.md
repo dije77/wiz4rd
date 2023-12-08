@@ -33,10 +33,5 @@
 - SLOWDNS 5300
 ```
 ### Author
-```
-```
-@djihadputera
-```
-```
-``
-```
+
+___@djihadputera___

@@ -180,7 +180,7 @@ a=" ${z}ACCOUNT PREMIUM"
 BG_RED="\033[45;1m"
 echo -e " "
 echo -e " ${z}╭══════════════════════════════════════════════════════════╮${NC}"
-echo -e " ${z}│$NC\033[5;33m                     @djihadputera                       $NC${z}│$NC"
+echo -e " ${z}│$NC\033[5;33m                    - @djihadputera_project -                       $NC${z}│$NC"
 echo -e " ${z}╰══════════════════════════════════════════════════════════╯${NC}"
 echo -e " ${z}╭══════════════════════════════════════════════════════════╮${NC}"
 echo -e " ${z}│$NC • $NC${z} System OS ${NC}     ${z}=$NC $MODEL${NC}"
@@ -197,7 +197,7 @@ echo -e " ${z}╰═════════════════════
 #echo -e "        ${z}❒════════════════════════════════════════════❒${NC}"
 
 #echo -e "        ${z}❒════════════════════════════════════════════❒${NC}" 
-#echo -e "                ${KIRI}${z}Dije     Tunneling${z}${KANAN}"
+#echo -e "                ${KIRI}${z}@djihadputera_project${z}${KANAN}"
 #echo -e "                ${LURUS}${LURUS2}${LURUS}${LURUS2}${LURUS}${LURUS2}${LURUS}${LURUS2}${LURUS}${LURUS2}"
 echo -e "    ${zx} NGINX$NC : $status_nginx ${zx} WS-EPRO$NC : $status_ws_epro ${zx} DROPBEAR$NC : $status_dropbear ${zx} HAPROXY$NC : $status_haproxy   $NC${zx}$NC" 
 

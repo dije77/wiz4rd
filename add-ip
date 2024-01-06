@@ -15,7 +15,7 @@ checking_sc() {
     echo -e "\033[42m          ANDA HARUS MENDAFTAR DAHULU UNTUK MENJADI SELLER         \033[0m"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     echo -e ""
-    echo -e "            ${RED}DAFTAR DULU DEK !${NC}"
+    echo -e "            ${RED}DAFTAR DULU KAK !${NC}"
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
